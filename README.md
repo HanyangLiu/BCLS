@@ -1,3 +1,5 @@
+# SOGE
+MATLAB code for "Balanced Clustering with Least Square Regression"
 
 CORESPONDENCE INFORMATION
 -------------------------
