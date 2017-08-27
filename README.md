@@ -23,6 +23,19 @@ HOW TO USE
 1. Set global variables and path in globals.m
 2. Run run_BalancedClutering.m to test on example dataset UMIST.
 
+CITATION
+--------
+
+If you found this release useful, please cite our work:
+
+@paper{Liu2017Balanced,
+	author = {Hanyang Liu and Junwei Han and Feiping Nie and Xuelong Li},
+	title = {Balanced Clustering with Least Square Regression},
+	conference = {AAAI Conference on Artificial Intelligence},
+	year = {2017},
+}
+
+
 
 
 
