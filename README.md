@@ -28,7 +28,7 @@ CITATION
 
 If you found this repository useful, you can cite our work:
 ```
-@paper{Liu2017Balanced,
+@paper{liu2017balanced,
 	author = {Hanyang Liu and Junwei Han and Feiping Nie and Xuelong Li},
 	title = {Balanced Clustering with Least Square Regression},
 	conference = {AAAI Conference on Artificial Intelligence},
